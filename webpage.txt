@@ -5,3 +5,4 @@ http://www.blogjava.net/yxhxj2006/archive/2012/10/15/389547.html
 http://tieba.baidu.com/p/2958563399
 http://www.ruanyifeng.com/blog/2014/06/git_remote.html
 http://jingyan.baidu.com/article/922554465fc819851748f466.html
+https://git-scm.com/book/zh/v1/Git-%E5%9F%BA%E7%A1%80-%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8
