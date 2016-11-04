@@ -3,3 +3,4 @@ https://segmentfault.com/a/1190000000738398
 http://www.blogjava.net/yxhxj2006/archive/2012/10/15/389547.html  
 
 http://tieba.baidu.com/p/2958563399
+http://www.ruanyifeng.com/blog/2014/06/git_remote.html
